@@ -1,0 +1,15 @@
+﻿  SolarSystem2.cpp
+C:\Users\Fergus\Documents\University Computing\Graphics-Project\OpenGL-Examples\graphics_examples\Assingnment2\SolarSystem2.cpp(94,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fergus\Documents\University Computing\Graphics-Project\OpenGL-Examples\graphics_examples\Assingnment2\SolarSystem2.cpp(95,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fergus\Documents\University Computing\Graphics-Project\OpenGL-Examples\graphics_examples\Assingnment2\SolarSystem2.cpp(97,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fergus\Documents\University Computing\Graphics-Project\OpenGL-Examples\graphics_examples\Assingnment2\SolarSystem2.cpp(98,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fergus\Documents\University Computing\Graphics-Project\OpenGL-Examples\graphics_examples\Assingnment2\SolarSystem2.cpp(99,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fergus\Documents\University Computing\Graphics-Project\OpenGL-Examples\graphics_examples\Assingnment2\SolarSystem2.cpp(101,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fergus\Documents\University Computing\Graphics-Project\OpenGL-Examples\graphics_examples\Assingnment2\SolarSystem2.cpp(102,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fergus\Documents\University Computing\Graphics-Project\OpenGL-Examples\graphics_examples\Assingnment2\SolarSystem2.cpp(106,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fergus\Documents\University Computing\Graphics-Project\OpenGL-Examples\graphics_examples\Assingnment2\SolarSystem2.cpp(107,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fergus\Documents\University Computing\Graphics-Project\OpenGL-Examples\graphics_examples\Assingnment2\SolarSystem2.cpp(167,16): warning C4244: '=': conversion from 'float' to 'GLuint', possible loss of data
+C:\Users\Fergus\Documents\University Computing\Graphics-Project\OpenGL-Examples\graphics_examples\Assingnment2\SolarSystem2.cpp(741,17): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+  wrapper_glfw.cpp
+  Generating Code...
+  Assingnment2.vcxproj -> C:\Users\Fergus\Documents\University Computing\Graphics-Project\OpenGL-Examples\graphics_examples\Debug\Assingnment2.exe
